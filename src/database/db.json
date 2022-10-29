@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Razia Begum",
+      "username": "syedarazia",
+      "email": "razia@gmail.com",
+      "phone": "7992385654",
+      "id": 1
+    },
+    {
+      "name": "Amrit pal",
+      "username": "amrit",
+      "email": "amrit@gmail.com",
+      "phone": "3748558583",
+      "id": 2
+    },
+    {
+      "name": "sushma",
+      "username": "sushmasaw",
+      "email": "Sushu@gmail.com",
+      "phone": "6204322291",
+      "id": 3
+    }
+  ]
+}
